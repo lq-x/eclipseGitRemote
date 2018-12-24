@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<!-- 集中定义依赖版本号 UUID-Eclipse  -->
-	<!-- 集成测试数据 进行下载更新操作 -->
+	<!-- 集成测试数据 进行下载更新操作  aaa+bbb 冲突 -->
 	<properties>
 		<junit.version>4.12</junit.version>
 		<spring.version>4.2.4.RELEASE</spring.version>
